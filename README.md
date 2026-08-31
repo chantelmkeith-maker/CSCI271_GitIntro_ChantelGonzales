@@ -2,4 +2,4 @@
 This is my very first repository on GitHub!
 **Author:**  Chantel Gonzales
 **Date Created:** Aug 30, 2026
-**Purpose:** Practicing GitHub basics, including creating a repository and a README file.
+**Purpose:** Practicing GitHub basics, including creating a repository and a README file. This branch is for demonstrating the ability to create a feature branch.
